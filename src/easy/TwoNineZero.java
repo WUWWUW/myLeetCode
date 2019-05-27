@@ -38,6 +38,7 @@ import java.util.Map;
  * 说明:
  * 你可以假设 pattern 只包含小写字母， str 包含了由单个空格分隔的小写字母。
  */
+//思路：使用map 数组分隔 一个一个比较放入map
 public class TwoNineZero {
     public static boolean wordPattern(String pattern, String str) {
         Map<Character,String> map=new HashMap<>();
