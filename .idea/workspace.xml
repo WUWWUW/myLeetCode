@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1208efd8-59e1-4aaf-9387-8e2ed3326e75" name="默认" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myLeetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/175" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/176" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/181" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/197" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/EightEight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/EightThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/FiveEight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/FiveThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/Nine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneEightNine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneFiveFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneFourOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneNineEight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneNineSix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneNineZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneOneEight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneOneNine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneOneOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneOneTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneOneZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneSevenOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneSevenTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneSixEight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneSixNine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneSixSeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneSixZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneThreeSix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneTwoFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneTwoOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneTwoTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneZeroEight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneZeroFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneZeroOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneZeroSeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/OneZeroZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/Seven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/SevenZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/SixNine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/SixSeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/SixSix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/ThreeEight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/ThreeFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/TwoEight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/TwoFiveEight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/TwoFiveSeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/TwoFourTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/TwoNineZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/TwoOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/TwoOneNine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/TwoOneSeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/TwoSeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/TwoSix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/TwoSixThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/TwoThreeFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/TwoThreeFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/TwoThreeOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/TwoThreeTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/TwoTwoFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/TwoTwoSix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/TwoZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/TwoZeroFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/TwoZeroFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/TwoZeroSix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/TwoZeroThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/TwoZeroTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week/FiveZeroSixThree.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ThreeEight.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/easy/ThreeEight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreeFive.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/easy/ThreeFive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoEight.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/easy/TwoEight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoFiveEight.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/easy/TwoFiveEight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoFiveSeven.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/easy/TwoFiveSeven.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoFourTwo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/easy/TwoFourTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoNineZero.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/easy/TwoNineZero.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoOne.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/easy/TwoOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoOneNine.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/easy/TwoOneNine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoOneSeven.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/easy/TwoOneSeven.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="13" lean-forward="true" selection-start-line="11" selection-end-line="12" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/easy/EightEight.java" />
+        <option value="$PROJECT_DIR$/src/easy/EightThree.java" />
+        <option value="$PROJECT_DIR$/src/easy/FiveEight.java" />
+        <option value="$PROJECT_DIR$/src/easy/FiveThree.java" />
+        <option value="$PROJECT_DIR$/src/easy/Nine.java" />
+        <option value="$PROJECT_DIR$/src/easy/One.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneEightNine.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneFiveFive.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneFour.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneFourOne.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneNineEight.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneNineZero.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneOneEight.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneOneNine.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneOneOne.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneOneTwo.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneOneZero.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneSevenOne.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneSevenTwo.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneSixEight.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneSixNine.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneSixSeven.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneSixZero.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneThree.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneThreeSix.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneTwoFive.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneTwoOne.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneTwoTwo.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneZeroEight.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneZeroFour.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneZeroOne.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneZeroSeven.java" />
+        <option value="$PROJECT_DIR$/src/easy/OneZeroZero.java" />
+        <option value="$PROJECT_DIR$/src/easy/Seven.java" />
+        <option value="$PROJECT_DIR$/src/easy/SevenZero.java" />
+        <option value="$PROJECT_DIR$/src/easy/SixNine.java" />
+        <option value="$PROJECT_DIR$/src/easy/SixSeven.java" />
+        <option value="$PROJECT_DIR$/src/easy/SixSix.java" />
+        <option value="$PROJECT_DIR$/src/easy/ThreeEight.java" />
+        <option value="$PROJECT_DIR$/src/easy/ThreeFive.java" />
+        <option value="$PROJECT_DIR$/src/easy/TwoEight.java" />
+        <option value="$PROJECT_DIR$/src/easy/TwoFiveEight.java" />
+        <option value="$PROJECT_DIR$/src/easy/TwoFiveSeven.java" />
+        <option value="$PROJECT_DIR$/src/easy/TwoFourTwo.java" />
+        <option value="$PROJECT_DIR$/src/easy/TwoNineZero.java" />
+        <option value="$PROJECT_DIR$/src/easy/TwoOne.java" />
+        <option value="$PROJECT_DIR$/src/easy/TwoOneNine.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="303" />
+    <option name="y" value="259" />
+    <option name="width" value="750" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myLeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myLeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myLeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myLeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="OneFiveFive.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="myLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myLeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="OneZeroZero.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="myLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myLeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="TwoOne.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ssm" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspaces\IDEA\myLeetCode\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="TwoOneSeven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.TwoOneSeven" />
+      <module name="myLeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TwoOneSeven" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1208efd8-59e1-4aaf-9387-8e2ed3326e75" name="默认" comment="" />
+      <created>1558959414771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558959414771</updated>
+      <workItem from="1558959423739" duration="675000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="675000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="right" id="调色板" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.2551834" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info id="设计器" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/easy/175">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/EightEight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/EightThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/FiveEight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/FiveThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/Nine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/One.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneEightNine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneFiveFive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneFour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneFourOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneNineEight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneNineSix">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-206" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneNineZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneOneEight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneOneNine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneOneOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneOneTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneOneZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneSevenOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneSevenTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneSixEight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneSixNine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneSixSeven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneSixZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneThreeSix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneTwoFive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneTwoOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneTwoTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneZeroEight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneZeroFour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneZeroOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneZeroSeven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/OneZeroZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/Seven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/SevenZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/SixNine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/SixSeven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/SixSix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/ThreeEight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/ThreeFive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/TwoEight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/TwoFiveEight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/TwoFiveSeven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/TwoFourTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/TwoNineZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/TwoOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/TwoOneNine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/TwoOneSeven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="11" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>myLeetCode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
