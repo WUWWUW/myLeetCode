@@ -34,6 +34,7 @@ public class ThreeZeroThree {
         sums = new int[nums.length];
         if (nums.length == 0) {
             return;
+
         }
         sums[0] = nums[0];
         for (int i = 1; i < nums.length; i++) {

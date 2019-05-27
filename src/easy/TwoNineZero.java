@@ -46,6 +46,7 @@ public class TwoNineZero {
         String[] s=str.split(" ");
         if(p.length!=s.length){
             return false;
+
         }
         for(int i=0,size=p.length;i<size;i++){
             if(map.containsKey(p[i])){
